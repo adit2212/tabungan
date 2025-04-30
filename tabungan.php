@@ -1,7 +1,7 @@
 <?php
 include 'function.php';
-// ini arahnya kemana ??????
 ?>
+
 
 <!DOCTYPE html>
 <html lang="id">
@@ -21,7 +21,7 @@ include 'function.php';
         if (add($_POST) > 1) {
             ?>
             <script>
-                alert('Data berhasil di simpan!');
+                alert('selamat menikah!');
             </script>
         <?
         } else {
