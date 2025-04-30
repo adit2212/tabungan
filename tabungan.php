@@ -1,6 +1,6 @@
 <?php
 include 'function.php';
-
+// ini arahnya kemana ??????
 ?>
 
 <!DOCTYPE html>
